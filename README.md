@@ -214,4 +214,6 @@ Uses this JPQL method:
 - MySQL Driver
 - Lombok (optional)
 
+Dataset used : https://www.kaggle.com/datasets/rohitgrewal/airlines-flights-data/
+
 ---
