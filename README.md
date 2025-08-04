@@ -1,4 +1,4 @@
-# ✈️ Flight Booking API – Spring Boot (README)
+# Flight Booking API – Spring Boot
 
 This project is a RESTful Flight Booking system built with **Spring Boot**, **Spring Data JPA**, and **MySQL**. It offers endpoints for managing and querying flight data with various filters (like source, destination, class, price, duration, etc.).
 
